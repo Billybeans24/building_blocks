@@ -1,2 +1,2 @@
 # building_blocks
-yes
+This repo contains code from the building blocks topic in P8105
